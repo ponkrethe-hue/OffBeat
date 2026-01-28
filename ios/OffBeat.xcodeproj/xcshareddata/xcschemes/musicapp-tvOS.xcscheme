@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "musicapp-tvOS.app"
-               BlueprintName = "musicapp-tvOS"
-               ReferencedContainer = "container:musicapp.xcodeproj">
+               BuildableName = "OffBeat-tvOS.app"
+               BlueprintName = "OffBeat-tvOS"
+               ReferencedContainer = "container:OffBeat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "musicapp-tvOSTests.xctest"
-               BlueprintName = "musicapp-tvOSTests"
-               ReferencedContainer = "container:musicapp.xcodeproj">
+               BuildableName = "OffBeat-tvOSTests.xctest"
+               BlueprintName = "OffBeat-tvOSTests"
+               ReferencedContainer = "container:OffBeat.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "musicapp-tvOS.app"
-            BlueprintName = "musicapp-tvOS"
-            ReferencedContainer = "container:musicapp.xcodeproj">
+            BuildableName = "OffBeat-tvOS.app"
+            BlueprintName = "OffBeat-tvOS"
+            ReferencedContainer = "container:OffBeat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "musicapp-tvOS.app"
-            BlueprintName = "musicapp-tvOS"
-            ReferencedContainer = "container:musicapp.xcodeproj">
+            BuildableName = "OffBeat-tvOS.app"
+            BlueprintName = "OffBeat-tvOS"
+            ReferencedContainer = "container:OffBeat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,17 +1,18 @@
 {
-  "name": "musicapp",
+  "name": "offbeat",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
-    "ios": "react-native run-ios",
-    "start": "react-native start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "start": "expo start",
     "test": "jest",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-native": "^0.63.4",
+    "expo": "^44.0.0",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
     "react-native-fast-image": "^8.3.4",
     "react-native-gesture-handler": "^1.10.2",
     "react-native-reanimated": "^2.0.0",
@@ -32,6 +33,7 @@
     "babel-jest": "^25.1.0",
     "babel-plugin-module-resolver": "^4.0.0",
     "eslint": "^6.5.1",
+    "expo-cli": "^6.3.12",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.13.1",

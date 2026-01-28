@@ -64,3 +64,11 @@ buck-out/
 
 # my custom musics
 /musics
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Backups
+*.bak

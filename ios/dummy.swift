@@ -1,6 +1,6 @@
 //
 //  dummy.swift
-//  musicapp
+//  OffBeat
 //
 //  Created by Minan on 13.12.2020.
 //
